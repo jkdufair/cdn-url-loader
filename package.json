@@ -1,6 +1,6 @@
 {
   "name": "cdn-url-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Jason Dufair jase@dufair.org and Tobias Koppers @sokra",
   "description": "CDN and url loader module for webpack",
   "dependencies": {

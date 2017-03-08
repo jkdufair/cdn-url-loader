@@ -1,6 +1,6 @@
 {
   "name": "cdn-url-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Jason Dufair jase@dufair.org and Tobias Koppers @sokra",
   "description": "CDN and url loader module for webpack",
   "dependencies": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:webpack/url-loader.git"
+    "url": "git@github.com:jkdufair/cdn-url-loader.git"
   },
   "license": "MIT"
 }
